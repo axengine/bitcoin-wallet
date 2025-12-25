@@ -18,8 +18,7 @@
             "mode": "debug",
             "program": "${workspaceFolder}",
             "env": {
-                "disableWorker": "true",
-                "disableRisksWorker": "true",
+       
             }
         }
     ]
